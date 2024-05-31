@@ -1,0 +1,5 @@
+googleapiclient.discovery
+pandas 
+psycopg2
+sqlalchemy
+streamlit
