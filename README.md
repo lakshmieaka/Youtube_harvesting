@@ -9,7 +9,7 @@ Comment Details: Provides insights into comments made on each video.
 SQL Query Execution: Allows users to execute predefined SQL queries to extract specific insights from the data.
 
 ## Conclusion
-
 This project provided a comprehensive learning experience in various aspects of software development, including API interaction, data manipulation, database management, and web application development. It serves as a practical demonstration of how to build an end-to-end data analysis application, from data collection to presentation.
 
 Feel free to explore the code and provide feedback. For any queries or suggestions, please contact me at lakshmieaka@gmail.com 
+by Annalakshmi Eakambaram
